@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ricky</title>
+  
+  <subtitle>独立之精神，自由之思想。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://chenxiaojun.github.io/"/>
+  <updated>2018-03-19T17:04:54.000Z</updated>
+  <id>https://chenxiaojun.github.io/</id>
+  
+  <author>
+    <name>Ricky</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://chenxiaojun.github.io/daily/hello.html"/>
+    <id>https://chenxiaojun.github.io/daily/hello.html</id>
+    <published>2018-03-19T17:04:54.000Z</published>
+    <updated>2018-03-19T17:04:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello, I am Ricky。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello, I am Ricky。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="daily" scheme="https://chenxiaojun.github.io/categories/daily/"/>
+    
+    
+      <category term="Hello" scheme="https://chenxiaojun.github.io/tags/Hello/"/>
+    
+  </entry>
+  
+</feed>
