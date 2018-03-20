@@ -5,9 +5,9 @@
   <subtitle>独立之精神，自由之思想。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://chenxiaojun.github.io/"/>
+  <link href="http://ricky.xin/"/>
   <updated>2018-03-20T16:30:56.000Z</updated>
-  <id>https://chenxiaojun.github.io/</id>
+  <id>http://ricky.xin/</id>
   
   <author>
     <name>Ricky</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://chenxiaojun.github.io/daily/hello.html"/>
-    <id>https://chenxiaojun.github.io/daily/hello.html</id>
+    <link href="http://ricky.xin/daily/hello.html"/>
+    <id>http://ricky.xin/daily/hello.html</id>
     <published>2018-03-20T16:30:56.000Z</published>
     <updated>2018-03-20T16:30:56.000Z</updated>
     
@@ -35,10 +35,10 @@
     
     </summary>
     
-      <category term="daily" scheme="https://chenxiaojun.github.io/categories/daily/"/>
+      <category term="daily" scheme="http://ricky.xin/categories/daily/"/>
     
     
-      <category term="技术" scheme="https://chenxiaojun.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="http://ricky.xin/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
