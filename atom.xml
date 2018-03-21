@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ricky.xin/"/>
-  <updated>2018-03-20T16:30:56.000Z</updated>
+  <updated>2018-03-20T16:44:18.000Z</updated>
   <id>http://ricky.xin/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://ricky.xin/daily/hello.html"/>
     <id>http://ricky.xin/daily/hello.html</id>
-    <published>2018-03-20T16:30:56.000Z</published>
-    <updated>2018-03-20T16:30:56.000Z</updated>
+    <published>2018-03-20T16:44:18.000Z</published>
+    <updated>2018-03-20T16:44:18.000Z</updated>
     
     <content type="html"><![CDATA[<p>Hello, I am Ricky。</p>]]></content>
     
